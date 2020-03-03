@@ -1,4 +1,4 @@
-# demofoodapp
+# Demo Food Flutter App
 
 A new Flutter application.
 
